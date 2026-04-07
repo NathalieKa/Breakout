@@ -1,0 +1,22 @@
+Pygame-Tutorial:https://www.youtube.com/watch?v=AY9MnQ4x3zk / https://www.youtube.com/watch?v=4TfZjhw0J-8&t=6s
+
+Musik: https://opengameart.org/content/5-chiptunes-action
+
+Grafik/Bilder: https://opengameart.org/content/breakout-brick-breaker-tile-set-free
+https://opengameart.org/content/breakout-game-assets
+
+Hintergrund: https://www.pinterest.de/pin/532972937153703127/
+
+https://www.pygame.org/docs/tut/newbieguide.html
+
+heart: https://www.pngwing.com/en/free-png-veink
+
+Fonts: https://www.fontspace.com/super-pixel-font-f112028 / https://www.fontspace.com/pixel-game-font-f121080
+
+Gif: https://www.reddit.com/r/PixelArt/comments/19a2cv1/explosion/
+
+soundeffect: https://pixabay.com/de/users/pixabay-1/
+
+https://samplefocus.com/samples/8-bit-explosion
+
+https://www.101computing.net/breakout-tutorial-using-pygame-adding-a-bouncing-ball/
